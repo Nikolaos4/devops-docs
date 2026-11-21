@@ -3,7 +3,6 @@
 
 def get_status():
     """Return the current project status."""
-    details = "temporary"
     return "ok"
 
 
