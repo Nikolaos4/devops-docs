@@ -14,7 +14,7 @@ on:
 permissions:
   contents: read
   pages: write
-  # id-token: write — намеренно отсутствует
+  id-token: write 
 
 concurrency:
   group: pages
