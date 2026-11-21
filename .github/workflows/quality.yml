@@ -29,3 +29,6 @@ jobs:
 
       - name: Run Pylint
         run: python -m pylint src/status.py --score=no
+
+      - name: Check documentation
+        run: python -m mkdocs build --strict --site-dir /tmp/docs-site
