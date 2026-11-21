@@ -9,6 +9,7 @@ GitHub Actions и GitHub Pages.
 
 - [Руководство по эксплуатации](runbook.md)
 - [Журнал инцидентов](incidents.md)
+- [Восстановление после сбоя](recovery.md)
 
 ## Версия документации
 
