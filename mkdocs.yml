@@ -1,0 +1,7 @@
+site_name: DevOps Documentation
+site_description: Практическая работа №9 по DevOps
+
+nav:
+  - Главная: index.md
+  - Руководство по эксплуатации: runbook.md
+  - Журнал инцидентов: incidents.md
